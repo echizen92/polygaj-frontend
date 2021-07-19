@@ -14,7 +14,6 @@ import TwitterCard from './components/TwitterCard'
 import EarnAPRCard from './components/EarnAPRCard'
 import EarnAssetCard from './components/EarnAssetCard'
 import WinCard from './components/WinCard'
-import Timer from './components/Timer'
 import MetaMask from './components/Metamask'
 
 const Hero = styled.div`
