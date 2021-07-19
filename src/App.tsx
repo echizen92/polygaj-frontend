@@ -20,7 +20,6 @@ const Buy = lazy(() => import('./views/Buy'))
 const Trade = lazy(() => import('./views/BuyNow'))
 const Liquidity = lazy(() => import('./views/Liquidity'))
 const Launchpad = lazy(() => import('./views/Teaser'))
-const KingOfElephants = lazy(() => import('./views/KingOfElephants'))
 // const Nft = lazy(() => import('./views/Nft'))
 
 // This config is required for number formating
