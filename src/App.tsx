@@ -66,11 +66,11 @@ const App: React.FC = () => {
             <Route path="/ido">
              <Ifos />
             </Route>
-            <Route path="/nft">
-             <Launchpad />
-            </Route>
-            <Route path="/kingOfElephants">
-             <KingOfElephants />
+           {/*  <Route path="/nft"> */}
+           {/*  <Launchpad /> */}
+           {/*  </Route> */}
+           {/*  <Route path="/kingOfElephants"> */}
+            {/*  <KingOfElephants /> */}
             </Route>
             {/* <Route path="/lottery"> */}
             {/*  <Lottery /> */}
