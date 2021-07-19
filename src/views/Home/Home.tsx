@@ -89,12 +89,12 @@ const Home: React.FC = () => {
         <Page>
             <Hero>
                 <Heading as="h1" size="xl" mb="24px" color="secondary">
-                    PolyGaj
+                    XOR Finance
                 </Heading>
-                <Text>You have seen the whales, now experience the Elephant</Text>
+                <Text>Stake Asset and Get Returns in Stablecoin with Native Token</Text>
             </Hero>
               <Heading as="h1" size="xl" mb="24px" color="secondary" >
-                Time until farming ends
+                
               </Heading>
             <div>
                 <Cards>
