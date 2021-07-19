@@ -89,7 +89,7 @@ const Home: React.FC = () => {
         <Page>
             <Hero>
                 <Heading as="h1" size="xl" mb="24px" color="secondary">
-                    PolyGaj
+                    XOR Finance
                 </Heading>
                 <Text>You have seen the whales, now experience the Elephant</Text>
             </Hero>
