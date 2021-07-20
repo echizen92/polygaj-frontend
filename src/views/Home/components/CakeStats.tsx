@@ -45,7 +45,7 @@ const CakeStats = () => {
           {TranslateString(534, 'GAJ Stats')}
         </Heading>
         <Row>
-          <Text fontSize="14px">GAJ Price</Text>
+          <Text fontSize="14px">XOR Price</Text>
           <CardValue fontSize="14px" value={eggPrice.toNumber()} decimals={2} prefix="$" />
         </Row>
         <Row>

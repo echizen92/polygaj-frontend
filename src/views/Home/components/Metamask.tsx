@@ -101,7 +101,7 @@ const FarmedStakingCard = () => {
     <StyledFarmStakingCard>
       <CardBody>
         <Heading size="xl" mb="24px">
-          Add GAJ
+          Add XOR
         </Heading>
         <Flex flexDirection="column" mb="15px">
           <LinkExternal mb="20px" small href={`https://explorer-mainnet.maticvigil.com/tokens/${token}`}>
@@ -112,7 +112,7 @@ const FarmedStakingCard = () => {
           <CardImage src="/images/egg/9.png" alt="Farm GAJ logo" width={60} height={60} />
           <hr/>
           <Button onClick={addWatchJaguarToken} size="sm">
-            + Add GAJ to <img style={{ marginLeft: 8 }} width={16} src="https://jaguarswap.com/images/tokens/metamask.png" alt="metamask logo" />
+            + Add XOR to <img style={{ marginLeft: 8 }} width={16} src="https://jaguarswap.com/images/tokens/metamask.png" alt="metamask logo" />
           </Button>
         </TokenImageWrapper>
       </CardBody>
