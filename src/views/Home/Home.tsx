@@ -91,10 +91,10 @@ const Home: React.FC = () => {
                 <Heading as="h1" size="xl" mb="24px" color="secondary">
                     XOR Finance
                 </Heading>
-                <Text>You have seen the whales, now experience the Elephant</Text>
+                <Text>Put in Assets and receive stablecoins</Text>
             </Hero>
               <Heading as="h1" size="xl" mb="24px" color="secondary" >
-                Time until farming ends
+                Lorem ipsum 
               </Heading>
             <div>
                 <Cards>
