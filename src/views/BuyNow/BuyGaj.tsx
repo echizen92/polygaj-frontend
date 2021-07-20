@@ -96,7 +96,7 @@ const Farms: React.FC<FarmsProps> = (farmsProps) => {
     },
     [bnbPrice, account, cakePrice, ethereum],
   )
-
+// here we put in contract address to be used to buy token
   return (
     <Page>
       <iframe src="https://quickswap.exchange/#/swap?inputCurrency=0xf4b0903774532aee5ee567c02aab681a81539e92" title="Buy GAJ" height='700px' width="100%"/>

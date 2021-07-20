@@ -91,7 +91,7 @@ const Home: React.FC = () => {
                 <Heading as="h1" size="xl" mb="24px" color="secondary">
                     XOR Finance
                 </Heading>
-                <Text>Put in Assets and receive stablecoins</Text>
+                <Text>Deposit Assets to receive yields in Stablecoin  </Text>
             </Hero>
               <Heading as="h1" size="xl" mb="24px" color="secondary" >
                 Lorem ipsum 
