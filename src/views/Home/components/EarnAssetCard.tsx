@@ -38,7 +38,7 @@ const EarnAssetCard = () => {
           <Heading color="white" size="lg">
             Stake
           </Heading>
-          <CardMidContent color="white">GAJ, WETH, WBTC</CardMidContent>
+          <CardMidContent color="white">XOR, WETH, WBTC</CardMidContent>
           <Flex justifyContent="space-between">
             <Heading color="white" size="lg">
               in Pools
