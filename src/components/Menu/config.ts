@@ -32,9 +32,9 @@ const config: MenuEntry[] = [
   },
 
   {
-    label: 'Jungle Pools',
+    label: 'Stake',
     icon: 'PoolIcon',
-    href: '/junglepools',
+    href: '/stake',
   },
   {
     label: 'Launchpad (IDO)',
