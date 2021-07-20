@@ -29,7 +29,7 @@ const WinCard = () => {
     <StyledFarmStakingCard>
       <NavLink exact activeClassName="active" to="/buy" id="lottery-pot-cta">
         <CardBody>
-          <CardMidContent color="secondary">Buy GAJ!</CardMidContent>
+          <CardMidContent color="secondary">Buy XOR </CardMidContent>
           <Flex justifyContent="space-between">
             <Heading color="contrast" size="lg" />
             <ArrowForwardIcon mt={30} color="primary" />
