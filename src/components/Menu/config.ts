@@ -42,11 +42,7 @@ const config: MenuEntry[] = [
     href: '/ido',
   },
 
-  {
-    label: 'King of Elephants',
-    icon: 'NftIcon',
-    href: '/kingofelephants'
-  },
+
   {
     label: 'Info',
     icon: 'InfoIcon',
