@@ -70,7 +70,7 @@ const config: MenuEntry[] = [
     ],
   },
   {
-    label: 'More',
+    label: 'Documentations',
     icon: 'MoreIcon',
     items: [
       {
