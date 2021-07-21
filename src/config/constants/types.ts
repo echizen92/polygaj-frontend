@@ -1,3 +1,4 @@
+//editting here affects src/config/constants/pools.ts(507,34) need xor staking token address
 export type IfoStatus = 'coming_soon' | 'live' | 'finished'
 
 export interface Ifo {
@@ -28,7 +29,7 @@ export enum QuoteToken {
   'UST' = 'UST',
   'USDT' = 'USDT',
   'WETH' = 'WETH',
-  'XOR' = 'XOR',
+  'GAJ' = 'GAJ',
 }
 
 export enum PoolCategory {
