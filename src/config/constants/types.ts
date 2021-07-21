@@ -1,4 +1,4 @@
-//editting here affects src/config/constants/pools.ts(507,34) need xor staking token address
+//  editting here affects src/config/constants/pools.ts(507,34) need xor staking token address
 export type IfoStatus = 'coming_soon' | 'live' | 'finished'
 
 export interface Ifo {
