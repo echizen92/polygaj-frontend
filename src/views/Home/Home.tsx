@@ -18,9 +18,9 @@ import MetaMask from './components/Metamask'
 
 const Hero = styled.div`
   align-items: center;
-  background-image: url('/images/egg/3ba.svg');
+  background-image: url('/images/egg/3b.png');
   background-repeat: no-repeat;
-  background-position: top center;
+  background-position: left center;
   display: flex;
   justify-content: center;
   flex-direction: column;
