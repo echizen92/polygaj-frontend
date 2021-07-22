@@ -104,7 +104,7 @@ const FarmedStakingCard = () => {
           Add XOR
         </Heading>
         <Flex flexDirection="column" mb="15px">
-          <LinkExternal mb="20px" small href={`https://polygonscan/tokens/${token}`}>
+          <LinkExternal mb="20px" small href={`https://polygonscan/token/${token}`}>
             {token}
           </LinkExternal>
         </Flex>
