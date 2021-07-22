@@ -81,8 +81,8 @@ const FarmedStakingCard = () => {
             type: 'ERC20',
             options: {
               address: token,
-              symbol: 'GAJ',
-              decimals: '18',
+              symbol: 'WBTC',
+              decimals: '8',
               image: '/logo.png',
             },
           },
@@ -104,7 +104,7 @@ const FarmedStakingCard = () => {
           Add XOR
         </Heading>
         <Flex flexDirection="column" mb="15px">
-          <LinkExternal mb="20px" small href={`https://explorer-mainnet.maticvigil.com/tokens/${token}`}>
+          <LinkExternal mb="20px" small href={`https://polygonscan/tokens/${token}`}>
             {token}
           </LinkExternal>
         </Flex>
