@@ -2,7 +2,7 @@ export default {
   cake: {
     56: '0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6',
     97: '',
-    137: '0xF4B0903774532AEe5ee567C02aaB681a81539e92', // GAJ
+    137: '0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6', // wbtc
   },
   masterChef: {
     56: '0xe70E9185F5ea7Ba3C5d63705784D8563017f2E57',
