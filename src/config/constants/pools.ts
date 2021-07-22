@@ -506,7 +506,7 @@ const pools: PoolConfig[] = [
     tokenName: 'WMATIC',
     stakingTokenName: QuoteToken.GAJ,
     stakingTokenAddress: {
-      137: '0xF4B0903774532AEe5ee567C02aaB681a81539e92',
+      137: '0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6',
       97: '',
       56: '', // GAJ
     },
