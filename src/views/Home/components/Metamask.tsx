@@ -109,7 +109,7 @@ const FarmedStakingCard = () => {
           </LinkExternal>
         </Flex>
         <TokenImageWrapper>
-          <CardImage src="/images/egg/9.png" alt="Farm GAJ logo" width={60} height={60} />
+          <CardImage src="/images/egg/9.png" alt="Farm XOR logo" width={60} height={60} />
           <hr/>
           <Button onClick={addWatchJaguarToken} size="sm">
             + Add XOR to <img style={{ marginLeft: 8 }} width={16} src="https://jaguarswap.com/images/tokens/metamask.png" alt="metamask logo" />
