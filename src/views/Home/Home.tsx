@@ -31,7 +31,8 @@ const Hero = styled.div`
 
   ${({ theme }) => theme.mediaQueries.lg} {
     background-image: url('/images/egg/3b.png');
-    background-position: left center, right center;
+    background-repeat: no-repeat;
+    background-position: center;
     display: flex;
     justify-content: center;
     flex-direction: column;
