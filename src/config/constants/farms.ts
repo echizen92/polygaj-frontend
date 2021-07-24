@@ -10,13 +10,13 @@ const farms: FarmConfig[] = [
     lpAddresses: {
       97: '',
       56: '0x19e7cbecdd23a16dfa5573df54d98f7caae03019',
-      137: '0x6e7a5fafcec6bb1e78bae2a1f0b612012bf14827',
+      137: '0x6e7a5fafcec6bb1e78bae2a1f0b612012bf14827', // 0x99dADf889520b9cEBD9959d3ca1866DC2517Ea1d
     },
     tokenSymbol: 'GAJ',
     tokenAddresses: {
       97: '',
       56: '0xf952fc3ca7325cc27d15885d37117676d25bfda6',
-      137: '0xF4B0903774532AEe5ee567C02aaB681a81539e92', 
+      137: '0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270', // 0xF4B0903774532AEe5ee567C02aaB681a81539e92
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
