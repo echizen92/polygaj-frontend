@@ -46,7 +46,7 @@ const CakeStats = () => {
         </Heading>
         <Row>
           <Text fontSize="14px">XOR Price</Text>
-          <CardValue fontSize="14px" value={eggPrice.toNumber()} decimals={2} prefix="$" />
+          <CardValue fontSize="14px" value={eggPrice.toNumber()} decimals={3} prefix="$" />
         </Row>
         <Row>
           <Text fontSize="14px">Maximum Mint</Text>
