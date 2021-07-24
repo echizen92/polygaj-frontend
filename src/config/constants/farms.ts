@@ -16,7 +16,7 @@ const farms: FarmConfig[] = [
     tokenAddresses: {
       97: '',
       56: '0xf952fc3ca7325cc27d15885d37117676d25bfda6',
-      137: '0xF4B0903774532AEe5ee567C02aaB681a81539e92',
+      137: '0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6',
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
