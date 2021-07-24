@@ -80,7 +80,7 @@ export const usePriceCakeBnb = (): BigNumber => {
   return farm.tokenPriceVsQuote ? new BigNumber(farm.tokenPriceVsQuote) : ZERO
 }
 
-export const usePriceCakeBusd = (): BigNumber => {
+export const usePriceWethBusd = (): BigNumber => {  // usePriceCakeBusd
   // const pid = 1 // CAKE-BNB LP
   // const bnbPriceUSD = usePriceBnbBusd()
   // const farm = useFarmFromPid(pid)
@@ -90,7 +90,7 @@ export const usePriceCakeBusd = (): BigNumber => {
   return farm.tokenPriceVsQuote ? new BigNumber(farm.tokenPriceVsQuote) : ZERO;
 }
 
-export const usePriceWethBusd = (): BigNumber => {
+export const usePriceCakeBusd = (): BigNumber => {   // usePriceWethBusd
   // const pid = 1 // CAKE-BNB LP
   // const bnbPriceUSD = usePriceBnbBusd()
   // const farm = useFarmFromPid(pid)
