@@ -16,7 +16,7 @@ const farms: FarmConfig[] = [
     tokenAddresses: {
       97: '',
       56: '0xf952fc3ca7325cc27d15885d37117676d25bfda6',
-      137: '0x6e7a5fafcec6bb1e78bae2a1f0b612012bf14827', // matic usdc
+      137: '0xF4B0903774532AEe5ee567C02aaB681a81539e92', // matic usdc
     },
     quoteTokenSymbol: QuoteToken.BUSD,
     quoteTokenAdresses: contracts.busd,
