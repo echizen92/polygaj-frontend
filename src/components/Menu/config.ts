@@ -37,13 +37,6 @@ const config: MenuEntry[] = [
     href: '/stake',
   },
 
-  // {
-  //  label: 'Launchpad (IDO)',
-  //  icon: 'IfoIcon',
-  //  href: '/ido',
-  // },
-
-
   {
     label: 'Info',
     icon: 'InfoIcon',
