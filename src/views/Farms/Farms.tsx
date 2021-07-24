@@ -108,10 +108,10 @@ const Farms: React.FC<FarmsProps> = (farmsProps) => {
         }
       </Heading>
       <Heading as="h2" color="secondary" mb="50px" style={{ textAlign: 'center' }}>
-        
+        No deposit fee
       </Heading>
       <Heading as="h2" color="secondary" mb="50px" style={{ textAlign: 'center' }}>
-       
+       Performance fee will be directed to Treasury for profit sharing with XOR Token Holders
       </Heading>
       <Heading as="h2" color="secondary" mb="50px" style={{ textAlign: 'center' }}>
         
