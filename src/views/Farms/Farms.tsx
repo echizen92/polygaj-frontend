@@ -114,7 +114,7 @@ const Farms: React.FC<FarmsProps> = (farmsProps) => {
        Performance fee will be directed to Treasury for profit sharing with XOR Token Holders
       </Heading>
       <Heading as="h2" color="secondary" mb="50px" style={{ textAlign: 'center' }}>
-        
+        Treasury aims to build assets backed by XOR 
       </Heading>
       <Heading as="h2" color="secondary" mb="50px" style={{ textAlign: 'center' }}>
         Farms and Pools are live
