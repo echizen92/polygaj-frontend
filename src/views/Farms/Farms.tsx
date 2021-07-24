@@ -108,13 +108,13 @@ const Farms: React.FC<FarmsProps> = (farmsProps) => {
         }
       </Heading>
       <Heading as="h2" color="secondary" mb="50px" style={{ textAlign: 'center' }}>
-        50% of the Deposit Fee will be used to buyback GAJ and Burn the Tokens
+        
       </Heading>
       <Heading as="h2" color="secondary" mb="50px" style={{ textAlign: 'center' }}>
-        Burn Time: Everyday 14:00 UTC
+       
       </Heading>
       <Heading as="h2" color="secondary" mb="50px" style={{ textAlign: 'center' }}>
-        50% of the Deposit Fee will be sent to treasury wallet for Future Development (example, for Jungle pools)
+        
       </Heading>
       <Heading as="h2" color="secondary" mb="50px" style={{ textAlign: 'center' }}>
         Farms and Pools are live

@@ -119,7 +119,7 @@ const Ifo = () => {
           <div>
             <Title as="h2">Want to launch your own IDO?</Title>
             <Text mb={3}>
-              Launch your project with PolyGaj, Polygon Network’s most transparent and active DeFi Platform
+              Launch your project with XOR Finance, Polygon Network’s most transparent and active DeFi Platform
             </Text>
             <Button
               as="a"

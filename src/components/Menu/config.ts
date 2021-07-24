@@ -36,11 +36,12 @@ const config: MenuEntry[] = [
     icon: 'PoolIcon',
     href: '/stake',
   },
-  {
-    label: 'Launchpad (IDO)',
-    icon: 'IfoIcon',
-    href: '/ido',
-  },
+
+  // {
+  //  label: 'Launchpad (IDO)',
+  //  icon: 'IfoIcon',
+  //  href: '/ido',
+  // },
 
 
   {
