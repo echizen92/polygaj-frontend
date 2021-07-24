@@ -123,7 +123,7 @@ const Ifo = () => {
             </Text>
             <Button
               as="a"
-              href="https://t.me/polygajhead"
+              href="https://t.me/xorOperator"
               external
             >
               Contact Us

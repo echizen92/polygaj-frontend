@@ -23,7 +23,7 @@ const Menu = (props) => {
       currentLang={selectedLanguage && selectedLanguage.code}
       langs={allLanguages}
       setLang={setSelectedLanguage}
-      cakePriceUsd={cakePriceUsd}
+       cakePriceUsd={cakePriceUsd}
       links={config}
       priceLink="https://polygonscan.com/token/0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6"
       {...props}

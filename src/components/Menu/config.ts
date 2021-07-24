@@ -89,7 +89,7 @@ const config: MenuEntry[] = [
   {
     label: "Collab",
     icon: "HandshakeIcon",
-    href: 'https://t.me/polygajhead',
+    href: 'https://t.me/xorOperator',
   }
 ]
 
